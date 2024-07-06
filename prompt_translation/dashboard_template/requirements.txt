@@ -6,7 +6,7 @@ apscheduler==3.10.4
 argilla==1.23.0
 attrs==23.2.0
 backoff==2.2.1
-certifi==2024.2.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
